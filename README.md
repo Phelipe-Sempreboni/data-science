@@ -1,4 +1,4 @@
-# Data Sscience
+# Data Science
 
 ---
 
