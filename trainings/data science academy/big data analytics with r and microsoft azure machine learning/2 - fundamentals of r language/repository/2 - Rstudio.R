@@ -17,3 +17,5 @@ library(ggplot2)
 # É viável desaxo-lo, pois o pacote consome memória, logo, tiremos o consumo da memória
 # Notar que a linguagem R em si trabalha em memória
 detach(package: ggplot2)
+
+
