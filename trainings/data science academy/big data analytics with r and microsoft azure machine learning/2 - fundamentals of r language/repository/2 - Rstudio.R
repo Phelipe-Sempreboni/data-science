@@ -32,7 +32,12 @@ install.packages("sos")
 library(sos)
 findFn("fread")
 
-# 
+# Se não souber o nome da função, utilize os comandos abaixo
+help.search("randomFores")
+help.search("matplot")
+??matplot
+RSiteSearch("matplot")
+example("matplot")
 
 
 
