@@ -32,6 +32,44 @@ getwd()
 
 # Operadores Relacionais
 
+# Atribuindo variáveis
+x = 7
+y = 5
+
+# Operadores
+x > 8
+x < 8
+x <= 8
+x >= 8
+x == 8
+x != 8
+
+# Operadores lógicos
+
+# And (E)
+(x==8) & (x==6)
+(x==7) & (x==5)
+(x==8) & (x==5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
