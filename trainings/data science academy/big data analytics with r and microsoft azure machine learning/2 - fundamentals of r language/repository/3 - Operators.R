@@ -8,3 +8,30 @@
 # Não use diretórios com espaço no nome
 setwd("C:/Users/pheli/OneDrive/Archives/2 - Github/Repositories/data-science/trainings/data science academy/big data analytics with r and microsoft azure machine learning/2 - fundamentals of r language/repository")
 getwd()
+
+# Operadores Básicos
+
+# Soma
+7+7
+
+# Subtração
+7-4
+
+# Multiplicação
+5*5
+
+# Divisão
+6/6
+
+# Potência
+3^2
+3**2
+
+# Módulo
+16 %% 3
+
+# Operadores Relacionais
+
+
+
+
