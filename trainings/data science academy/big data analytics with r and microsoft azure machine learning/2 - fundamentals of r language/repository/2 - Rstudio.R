@@ -39,7 +39,8 @@ help.search("matplot")
 RSiteSearch("matplot")
 example("matplot")
 
-
+# Para sair/terminar uma sessão de trabalho (Workspace)
+q()
 
 
 
