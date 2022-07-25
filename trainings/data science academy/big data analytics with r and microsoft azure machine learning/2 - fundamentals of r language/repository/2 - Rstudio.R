@@ -27,7 +27,12 @@ detach(package: ggplot2)
 help(mean)
 ?(mean)
 
+# Para buscar mais opções de ajuda sobre uma função, use o pacote SOS "AJUDA"!
+install.packages("sos")
+library(sos)
+findFn("fread")
 
+# 
 
 
 
