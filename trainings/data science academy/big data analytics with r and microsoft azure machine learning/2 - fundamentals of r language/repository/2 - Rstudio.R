@@ -41,18 +41,3 @@ example("matplot")
 
 # Para sair/terminar uma sessão de trabalho (Workspace)
 q()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
