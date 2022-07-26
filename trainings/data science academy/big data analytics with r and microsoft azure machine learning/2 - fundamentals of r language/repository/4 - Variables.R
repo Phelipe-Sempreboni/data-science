@@ -35,7 +35,31 @@ var4 = function(x) {x+3}
 var4
 mode(var4)
 
+# Podemos também mudar o modo do dado
+var5 = as.character(var1)
+var5
+mode(var5)
 
+# Atribuindo valores à objetos em modelo diferente dos acima
+x <- c(1,2,3)
+x
 
+x1 = c(1,2,3)
+x1
 
+c(1,2,3) -> y
+y
 
+assign("x2", c(6.3,3,4,-2))
+x2
+
+# Verificando o valor em uma especifica da lista
+x2[2]
+
+# Verificar objetos
+ls()
+objects()
+
+# Remover objetos
+rm(x2)
+x2
