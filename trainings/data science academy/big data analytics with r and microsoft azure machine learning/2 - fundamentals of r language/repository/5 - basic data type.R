@@ -36,4 +36,6 @@ as.integer("Joe")
 as.integer('Joe')
 as.integer(TRUE)
 as.integer(FALSE)
+as.integer('TRUE')
+
 
