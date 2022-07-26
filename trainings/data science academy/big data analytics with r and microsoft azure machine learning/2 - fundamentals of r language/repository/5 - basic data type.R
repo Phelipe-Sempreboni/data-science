@@ -38,4 +38,40 @@ as.integer(TRUE)
 as.integer(FALSE)
 as.integer('TRUE')
 
+# Character
+char1 = 'A'
+char1
+mode(char1)
+typeof(char1)
+
+char2 = "Cientista"
+char2
+mode(char2)
+typeof(char2)
+
+char3 = c("Data", "Science", "Academy")
+char3
+mode(char3)
+typeof(char3)
+
+# Complex / Complexo
+compl = 2.5 + 4i
+compl
+mode(compl)
+typeof(compl)
+
+sqrt(-1)
+sqrt(-1+0i)
+sqrt(as.complex(-1))
+
+# Logic / Lógico
+x = 1; y=2
+z = x > y
+z
+
+
+
+
+
+
 
