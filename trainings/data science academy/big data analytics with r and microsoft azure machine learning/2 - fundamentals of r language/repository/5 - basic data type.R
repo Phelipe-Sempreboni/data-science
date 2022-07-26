@@ -68,10 +68,19 @@ sqrt(as.complex(-1))
 x = 1; y=2
 z = x > y
 z
+class(z)
+mode(z)
+typeof(z)
 
+u = TRUE; v = FALSE
+class(u)
+u & v
+u | v
+!u
 
+# Operações com 0
+5/0
+0/5
 
-
-
-
-
+# Erro
+'Joe'/5
