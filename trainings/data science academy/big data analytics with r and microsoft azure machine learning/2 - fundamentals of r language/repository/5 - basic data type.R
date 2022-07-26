@@ -19,6 +19,7 @@ typeof(num1)
 
 num2 = 16.82
 num2
+class(num1)
 mode(num2)
 typeof(num2)
 
@@ -34,5 +35,5 @@ as.integer('3.17')
 as.integer("Joe")
 as.integer('Joe')
 as.integer(TRUE)
-
+as.integer(FALSE)
 
